@@ -5,7 +5,7 @@ function Head() {
     <div className="headsection">
       <div className="imagehead">
         <img
-          src="/public/images/images.png"
+          src="./images/Home1.jpg"
           className="imageheadsection"
           data-aos="fade-right"
           data-aos-duration="500"
@@ -13,7 +13,7 @@ function Head() {
       </div>
 
       <div className="headcontent" data-aos="fade-left" data-aos-duration="500">
-        <h1 className="heading">Microsoft Student Chapter IGDTUW</h1>
+        <h1 className="heading">Fin_guru</h1>
         <p className="headp">
           We aim to equip the students with the tools that enable them to
           perform the best in the corporate environment right from their

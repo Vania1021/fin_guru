@@ -10,15 +10,10 @@ function About() {
       >
         <h4>loremmmmm</h4>
         
-        We are the MICROSOFT LEARN STUDENT AMBASSADOR STUDENT CHAPTER, your one
-        stop spot for all the amazing sessions and events. This is where you can
-        grow by learning from the mistakes, experiences, success and failure of
-        the experts, your seniors, and peers. We will guide and make you ready
-        for whatever comes along. Get ready for all the exciting and amazing
-        stuff we have in store for you all!
+        Lorem 
       </div>
       <img
-        src="./images/home_background.jpg"
+        src="./images/home5.jpg"
         className="imagesection"
         data-aos="fade-right"
         data-aos-duration="500"
