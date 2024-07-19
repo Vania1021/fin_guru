@@ -4,7 +4,7 @@ const blogs=[
         author:"NSE",
         category:"Stock Price Indian Market",
         content:"",
-        image:""
+        image:"https://res.cloudinary.com/duxmh9dws/image/upload/v1694970533/Screenshot_2023-09-17_at_10.24.29_PM_scnmhq.png"
     },
     {
         name:"MLSA Application Process",
