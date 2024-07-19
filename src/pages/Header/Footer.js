@@ -29,7 +29,7 @@ const Footer = () => {
         <div className="help-sec">
           <div className="footer-title">Address</div>
           <ul className='help-ul'>
-            <li>IGDTUW New Delhi, India</li>
+            <li>India</li>
           </ul>
         </div>
         <div className="g-i-t">
@@ -44,7 +44,7 @@ const Footer = () => {
 
         </div>
       </div>
-      <div className='cr-con'>MLSA-IGDTUW &copy; 2022 | All Rights Reserved.</div>
+      <div className='cr-con'> AVAA &copy; 2024 | All Rights Reserved.</div>
     </footer>
     
     </>
