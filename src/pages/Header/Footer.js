@@ -44,7 +44,7 @@ const Footer = () => {
 
         </div>
       </div>
-      <div className='cr-con'>AVAA &copy; 2024 | All Rights Reserved.</div>
+      <div className='cr-con'> AVAA &copy; 2024 | All Rights Reserved.</div>
     </footer>
     
     </>
