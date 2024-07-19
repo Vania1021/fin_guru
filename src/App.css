@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 .App {
   text-align: center;
-  background-color: white;
+  background-color:white;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -20,7 +20,7 @@ html,body{
 
 }
 .App-header {
-  background-color: #282c34;
+  background-color: #5a3b92;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
