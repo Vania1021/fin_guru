@@ -1,5 +1,4 @@
 import "../styles/Head.css";
-import {useTypewriter, Cursor} from react-simple-typewriter
 
 function Head() {
   return (
@@ -17,11 +16,13 @@ function Head() {
       <div className="headcontent" data-aos="fade-left" data-aos-duration="500">
         <h1 className="heading">ARIOSE</h1>
         <p className="headp">
-        Welcome to ARIOSE
+        <h2>Welcome to ARIOSE</h2>
         <br></br>
         Automated Real-time Integrated Oversight and Surveillance Engine
-
-        Protecting Your Finances with Cutting-Edge Technology
+        Protecting Your Finances with Cutting-Edge Technology.
+        
+        
+        
         </p>
       </div>
     </div>
