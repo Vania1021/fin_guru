@@ -5,11 +5,12 @@ function Head() {
     <div className="headsection">
       <div className="imagehead">
         <img
-          src="./images/Home1.jpg"
+          src="./images/home_page.jpg"
           className="imageheadsection"
           data-aos="fade-right"
-          data-aos-duration="500"
-        ></img>
+          data-aos-duration="500">
+            
+          </img>
       </div>
 
       <div className="headcontent" data-aos="fade-left" data-aos-duration="500">

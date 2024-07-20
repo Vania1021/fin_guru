@@ -1,20 +1,9 @@
 import React from 'react';
 import './Header.css'; 
-import MSC_Logo from "./MSC_Logo.png";
+import MSC_Logo from "./images/home_page.jpg";
 const Header = () => {
   return (
-    // <>
-    // <div className='no-padding'>
-    //   <div className="containerheader blue circleBehind">
-    //     <a href="/">Home</a>
-    //     <a href="/events">Events</a>
-    //     <a href="/team">Team</a>
-    //     <a href="/contact">Contact</a>
-    //     <a href="/faq">FAQ</a>
-    //     <a href="/blog">Blogs</a>
-    //   </div>
-    // </div>
-    // </>
+   
     <header class="containerheader blue ">
   <nav>
     <div class="logoheader">

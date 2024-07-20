@@ -13,7 +13,7 @@ function About() {
         Lorem 
       </div>
       <img
-        src="./images/home5.jpg"
+        src="./images/about_image.jpg"
         className="imagesection"
         data-aos="fade-right"
         data-aos-duration="500"
