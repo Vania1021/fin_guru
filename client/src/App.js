@@ -1,9 +1,9 @@
 
 import './App.css';
-import EventsPg from "./pages/Events/EventsPg";
+
 import Header from './pages/Header/Header';
 import Footer from './pages/Header/Footer';
-
+import Login from './pages/login/Login';
 import Contacts from "./pages/Contact/Contacts";
 import MainSection from './pages/Teams/MainSection';
 import Home from "./pages/Home/Home";
@@ -17,7 +17,7 @@ import Blogpg from './pages/BlogPages/BlogPg';
 import Bootcamp from './pages/Bootcamp/Bootcamp';
 import Upcoming from './pages/Home/Upcoming';
 
-import Triathlon from './pages/Triathlon/MainPage';
+
 
 
 function App() {
@@ -34,13 +34,13 @@ function App() {
   <Route path="/contact" element={<Contacts/>}/>
   <Route path="/team" element={<MainSection/>}/>
   <Route path="/faq" element={<FAQs/>}/>
-  <Route path="/events" element={<EventsPg/>}/>
   <Route path="/blog" element={<Blogpg/>}/>
   <Route path="/googlegenerationscholarship" element={<Blog/>}/>
   <Route path="/bootcamp" element={<Bootcamp/>}/>
+  <Route path="/login" element={<Login/>}/>
  
   <Route path="/upevent" element={<Upcoming/>}/>
-  <Route path="/triathlon" element={<Triathlon/>}/>
+  
 </Routes>
 </BrowserRouter>
 <Footer/>
