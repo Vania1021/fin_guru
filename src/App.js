@@ -15,8 +15,6 @@ import FAQs from './pages/Header/FAQs';
 import Blog from "./pages/BlogPages/assets/Blog";
 import Blogpg from './pages/BlogPages/BlogPg';
 import Bootcamp from './pages/Bootcamp/Bootcamp';
-import BlogKhushiSharma from './pages/BlogPages/blogslist/BlogKhushiSharma';
-import BlogAasthaSinghal from './pages/BlogPages/blogslist/BlogAasthaSinghal';
 import Upcoming from './pages/Home/Upcoming';
 
 import Triathlon from './pages/Triathlon/MainPage';
@@ -40,8 +38,7 @@ function App() {
   <Route path="/blog" element={<Blogpg/>}/>
   <Route path="/googlegenerationscholarship" element={<Blog/>}/>
   <Route path="/bootcamp" element={<Bootcamp/>}/>
-  <Route path="/mlsaapplicationprocess" element={<BlogKhushiSharma/>}/>
-  <Route path="/smarthackathon(ferozpur)" element={<BlogAasthaSinghal/>}/>
+ 
   <Route path="/upevent" element={<Upcoming/>}/>
   <Route path="/triathlon" element={<Triathlon/>}/>
 </Routes>
