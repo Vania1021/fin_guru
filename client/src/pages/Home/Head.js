@@ -1,4 +1,5 @@
 import "../styles/Head.css";
+import {useTypewriter, Cursor} from react-simple-typewriter
 
 function Head() {
   return (

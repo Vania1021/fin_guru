@@ -39,6 +39,13 @@ font-size: 3rem;
     font-weight: 500;
 }
 
+#typewriter-text {
+    border-right: 2px solid white; /* Adjust color as needed */
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+  }
+
 @media(max-width:900px)
 {
     .headsection{
