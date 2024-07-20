@@ -5,9 +5,9 @@ function Goals()
     return(
         <>
         <div className="goals_container">
-            <Circlepointer head="DECIDE" img="https://img.freepik.com/free-vector/toggle-concept-illustration_114360-8900.jpg?w=2000" content="We will help you decide the best way ahead by providing you the right information."/>
-            <Circlepointer head="LEARN"img="https://stories.freepiklabs.com/api/vectors/online-learning/rafiki/render?color=7BBEF4FF&background=complete&hide=" content="We will help you learn what you need to by exclusive events, sessions and webinars."/>
-            <Circlepointer head="APPLY"img="https://img.freepik.com/free-vector/forms-concept-illustration_114360-4957.jpg?w=740&t=st=1672240782~exp=1672241382~hmac=18c1cfdd71a792d5457abfd2abc53ec6ecc7b8e5bb61fa8645eef8a7a94f7f37" content="Having skills is one thing and applying that at right place is another. We will bridge the gap."/>
+            <Circlepointer head="Real-time Fraud Detection" img="./images/goal4.jpg" content="Our platform continuously monitors transactions in real-time, identifying and flagging suspicious activities instantly to prevent fraud before it happens."/>
+            <Circlepointer head="Blockchain Security" img="./images/goal5.jpg" content="By utilizing blockchain technology, ARIOSE guarantees the highest level of security. Each transaction is recorded on a decentralized ledger, ensuring transparency and preventing unauthorized alterations."/>
+            <Circlepointer head="Machine Learning Precision" img="./images/goal2.jpg" content="Our sophisticated machine learning models are trained on vast datasets to detect even the most subtle signs of fraudulent activity, enhancing accuracy and reducing false positives."/>
         </div>
         </>
     )
