@@ -9,21 +9,38 @@ export default function FAQs() {
     <h1 className="divider line glow" contenteditable>Frequently Asked Questions</h1>
     <MDBContainer className="mt-5" style={{maxWidth: '1300px'}}>
       <MDBAccordion alwaysOpen initialActive={1}>
-        <MDBAccordionItem collapseId={1} headerTitle="What is MSC-IGDTUW all about?" >
-        MSC IGDTUW, a technical club under the wing of Microsoft Learn Student Ambassador, is a great platform for students to come together to learn about the new technologies, network with their peers, nurture their skills and foster a sense of student community.
+        <MDBAccordionItem collapseId={1} headerTitle="How does ARIOSE detect fraud?" >
+        ARIOSE monitors transactions in real-time and uses sophisticated machine learning models to analyze patterns and detect anomalies that may indicate fraudulent activity. If suspicious activity is detected, the system flags it immediately for further investigation.
+
         </MDBAccordionItem>
-        <MDBAccordionItem collapseId={2} headerTitle="What prompts for MSC?">
-        MSC-IGDTUW believes that the right guidance can help you achieve ultimate success. We promise to nurture you throughout your journey and you wil not miss any opportunity if you are with us.
+        <MDBAccordionItem collapseId={2} headerTitle="What role does blockchain technology play in ARIOSE?">
+        Blockchain technology ensures the security and transparency of each transaction by recording it on a decentralized ledger. This makes all transaction records immutable and tamper-proof, providing an additional layer of security.
+
+
         </MDBAccordionItem>
-        <MDBAccordionItem collapseId={3} headerTitle="What will MSC provide?">
-        The club aims at providing the best resources and tools to learn and grow by organizing informative webinars, seminars, technical hackathons and ideathons.
+        <MDBAccordionItem collapseId={3} headerTitle=" Who can benefit from using ARIOSE?">
+        ARIOSE is beneficial for anyone who wants to ensure the security of their credit card transactions. This includes individuals, businesses, and financial institutions looking to protect their finances and maintain trust with their customers.
         </MDBAccordionItem>
-        <MDBAccordionItem collapseId={4} headerTitle="What does MSC have in stack for us?">
-        MSC IGDTUW offers many special perks for all the members such as access to all the meet and sessions and access to exclusive Microsoft supported events and resources. MSC IGDTUW is the right place for students who have a passion for technology and a desire to share and learn.
+        <MDBAccordionItem collapseId={4} headerTitle="How does ARIOSE ensure the accuracy of fraud detection?">
+        ARIOSE's machine learning models are trained on vast datasets, enabling them to identify even the most subtle signs of fraudulent activity. The system continuously updates and improves its algorithms to enhance detection accuracy and reduce false positives.
+
         </MDBAccordionItem>
-        <MDBAccordionItem collapseId={5} headerTitle="What's so special about MSC?">
-        Reskill in collaboration with Azure Developer Community supported by Microsoft Azure organizes some special events exclusively for MSC members wherein one gets to network with peers along with having great learning sessions at Microsoft office, Gurugram.
+        <MDBAccordionItem collapseId={5} headerTitle="Is my data secure with ARIOSE?">
+        Yes, your data is secure with ARIOSE. We use advanced encryption methods and blockchain technology to ensure that all transaction data is protected from unauthorized access and tampering.
+
         </MDBAccordionItem>
+        <MDBAccordionItem collapseId={6} headerTitle="How can I get started with ARIOSE?">
+        Getting started with ARIOSE is easy. Simply sign up on our website, integrate our platform with your existing financial system, and start monitoring your transactions for fraud in real-time.
+
+
+        </MDBAccordionItem>
+        <MDBAccordionItem collapseId={7} headerTitle="Can ARIOSE integrate with my existing financial systems?
+">
+        Yes, ARIOSE is designed to seamlessly integrate with various financial systems. Our platform provides comprehensive oversight and surveillance without disrupting your current operations.
+
+
+        </MDBAccordionItem>
+        
       </MDBAccordion>
     </MDBContainer>
     </>

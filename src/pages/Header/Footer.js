@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import MSC_Logo from "./MSC_Logo.png";
+import logo_image from "./logo_image.png";
 
 const Footer = () => {
   return (
@@ -10,7 +10,7 @@ const Footer = () => {
     
       <div className="f-item-con">
       <div className="logo">
-            <img src={MSC_Logo} alt="MSC" class="logo" />
+            <img src={logo_image} alt="MSC" class="logo" />
     </div>
         <div className="app-info">
 

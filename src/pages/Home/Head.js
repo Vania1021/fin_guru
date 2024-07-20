@@ -5,21 +5,21 @@ function Head() {
     <div className="headsection">
       <div className="imagehead">
         <img
-          src="./images/Home1.jpg"
+          src="./images/home_page.jpg"
           className="imageheadsection"
           data-aos="fade-right"
-          data-aos-duration="500"
-        ></img>
+          data-aos-duration="500">
+            
+          </img>
       </div>
 
       <div className="headcontent" data-aos="fade-left" data-aos-duration="500">
-        <h1 className="heading">Fin_guru</h1>
+        <h1 className="heading">ARIOSE</h1>
         <p className="headp">
-          We aim to equip the students with the tools that enable them to
-          perform the best in the corporate environment right from their
-          starting of programming to interviews to the internship and project
-          presentation not only as an engineer but in a lot of other domains
-          that remain largely unexplored.
+        Welcome to ARIOSE
+        Automated Real-time Integrated Oversight and Surveillance Engine
+
+        Protecting Your Finances with Cutting-Edge Technology
         </p>
       </div>
     </div>

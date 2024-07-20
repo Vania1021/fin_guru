@@ -7,9 +7,9 @@ function Upcoming()
     return(
         <>
         <div className="upcomingsection" data-aos="fade-up">
-        <Hovercard img="./images/home2.jpg" content="Episode 1: In this captivating episode of our Insider Series, we delved into the world of the Flipkart GRiD Hackathon with the amazing Ms. Pooja Gera. She shared her remarkable journey and winning strategies to ace hackathons and her experience that led to triumph." name="Insider 1"/>
-        <Hovercard img="./images/home3.jpg" content="Episode 2: The second episode of the Insider Series was an inspiring session with the talented Ms. Bhawna, one of the MLH Fellowship Top 50 achievers. She shared her exceptional journey and insights, motivating our audience to excel in the dynamic realm of tech." name="Insider 2"/>
-        <Hovercard img="./images/home4.jpg" content="Episode 3: In our illuminating session, we delved into the art of cracking FAANG companies—those tech giants everyone aspires to join. From crafting standout resumes to acing technical interviews, we dissected strategies and shared insider tips to help attendees land coveted positions at FAANG." name="Insider 3"/>
+        <Hovercard img="./images/event1.jpg" content=" Blockchain technology ensures all transaction records are permanent and tamper-proof" name="Immutable Records:"/>
+        <Hovercard img="./images/event2.jpg" content=" Deep learning algorithms analyze transaction patterns to predict and prevent fraud effectively." name="Advanced Analytics:"/>
+        <Hovercard img="./images/event3.jpg" content=" A sleek and intuitive interface allows users to easily navigate and manage their transaction security." name="User-friendly Interface:"/>
         </div>
         </>
     )

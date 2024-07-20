@@ -1,17 +1,16 @@
 const blogs=[
     {
-        name:"Check Out Real Time Prices at NSE",
-        author:"NSE",
-        category:"Stock Price Indian Market",
-        content:"",
-        image:"https://res.cloudinary.com/duxmh9dws/image/upload/v1694970533/Screenshot_2023-09-17_at_10.24.29_PM_scnmhq.png"
+        name:"CASE 1",
+        category:"Bank Frauds",
+        content:"Bank frauds up nearly 300% in last two years, digital frauds up 708%: RBI-An analysis of frauds reported across banks has shown that the number of fraud cases reported in FY24 were 36,075, up nearly 300 per cent from the 9,046 cases reported in FY22. However, the amount involved has fallen from Rs 45,358 crore to Rs 13,930 crore, the central bank said in its annual report for FY24 on Thursday.",
+        image:"./images/Case1_blog.jpg"
+
     },
     {
-        name:"MLSA Application Process",
-        author:"Khushi Sharma",
-        category:"mlsa",
-        content:"The Microsoft learn student ambassadors(MLSA) Club is one of the most prestigious communities of developers we have across the world, started by Microsoft itself. It’s not just about getting Microsoft goodies but actually interacting and collaborating with genius minds across the globe on highly impactful projects. ",
-        image:"https://res.cloudinary.com/duxmh9dws/image/upload/v1694970532/Screenshot_2023-09-17_at_10.38.17_PM_x7u3qe.png"
+        name:"CASE 2",
+        category:"Credit card Fraud",
+        content:"Rs 12 crore fraud: RBL Bank files case against its credit card department’s national head: The RBL Bank has filed a fraud case against its credit card department’s national head, 10 other senior officers from their Gurugram, Mumbai, Rajkot and Ahmedabad offices and their unknown associates, for allegedly defrauding the bank of Rs 12.02 crore.",
+        image:"./images/case2_blog.jpg"
     },
 
 ]
