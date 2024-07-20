@@ -1,7 +1,5 @@
 import React from 'react';
 import './Card.css';
-
-
 const Card = ({ name, imageSrc, profession, socialLinks }) => {
   console.log(imageSrc);
   return (
