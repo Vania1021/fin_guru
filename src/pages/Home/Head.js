@@ -17,6 +17,7 @@ function Head() {
         <h1 className="heading">ARIOSE</h1>
         <p className="headp">
         Welcome to ARIOSE
+        <br></br>
         Automated Real-time Integrated Oversight and Surveillance Engine
 
         Protecting Your Finances with Cutting-Edge Technology

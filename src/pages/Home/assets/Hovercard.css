@@ -10,7 +10,7 @@
   .cardhover{
     height: 300px;
     margin: 50px;
-    box-shadow: 5px 5px 20px black;
+    box-shadow: 5px 5px 20px rgb(221, 217, 217);
     overflow:hidden;
     position: relative;
   }
@@ -34,6 +34,7 @@
     margin:10px;
     visibility:hidden;
     opacity: 0;
+    
   }
   .cardhover:hover{
     cursor:pointer; 

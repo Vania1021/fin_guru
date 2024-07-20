@@ -12,7 +12,7 @@ function Home() {
       <h1 className="mainpagehead">Goals</h1>
       <Goals />
       <h1 className="mainpagehead" id="event">
-        Recent Events
+        Features
       </h1>
       <Upcoming />
     </div>

@@ -36,11 +36,10 @@ function Blogpg()
 
                 <select value={value} onChange={handleChange} className="selectfilter">
                 <option value="all">All</option>
-                    <option value="mlsa">MLSA Special</option>
+                    <option value="Bank Frauds">Bank Frauds</option>
 
-                    <option value="web">Web Development</option>
 
-                    <option value="hackathons">Hackathons</option>
+                    <option value="Credit card Fraud">Credit card Fraud</option>
 
                 </select>
 

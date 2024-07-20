@@ -25,7 +25,7 @@
     margin-right: auto;
     margin-top: 3rem;
     border-radius: 10px;
-    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px 1px rgba(235, 229, 229, 0.951);
     padding:2rem;
     background-image: linear-gradient(rgb(255, 255, 255),rgb(211, 231, 255));
 }
@@ -58,8 +58,9 @@
     margin-right: auto;
     margin-top: 3rem;
     border-radius: 10px;
-    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px 1px rgba(229, 225, 225, 0.1);
     padding:1rem;
+    color: aliceblue;
 }
 
 }

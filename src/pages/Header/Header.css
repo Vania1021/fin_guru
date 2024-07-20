@@ -1,17 +1,18 @@
 .containerheader {
     position: sticky;
-    top: 0;
+    
     width: 100%;
-    box-shadow: 0 4px 20px hsla(207, 24%, 35%, 0.1);
-    background-color: #041e55;
+    height:3rem;
+    background-color: #07183d;
     z-index: 1000;
+    height:80px;
   }
   
   nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 30px;
+    
   }
   
   .logoheader a {
@@ -64,7 +65,9 @@
   background-color: green;
 }
 .logoheader img{
-    width:4rem;
+  
+  width:120px;
+
 }
 
 
@@ -81,7 +84,7 @@
       transform: scale(1, 0);
       transform-origin: top;
       transition: transform 0.3s ease-in-out;
-      box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+      box-shadow: rgba(219, 215, 215, 0.911) 1.95px 1.95px 2.6px;
     }
   
     .menu a {

@@ -69,18 +69,18 @@ function Contacts() {
           <div className="info">
             <div className="information">
               <img src = { location } className="icon" alt="location" />
-              <p>IGDTUW, Delhi-110006</p>
+              <p>Delhi</p>
             </div>
           </div>
 
           <div className="social-media">
-            <p>Connect with us :</p>
+            <p>Connect with us:</p>
             <div className="social-media-icons">
               
-              <a href="https://twitter.com/IgdtuwMsc">
+              <a href="https://x.com/Ad_75432">
                 <i className="fa"> <FaTwitter /> </i>
               </a>
-              <a href="https://www.instagram.com/msc.igdtuw/">
+              <a href="https://www.instagram.com/luky75432/">
                 <i className="fa"> <FaInstagram /> </i>
               </a>
               <a href="https://www.linkedin.com/company/microsoft-student-chapter-igdtuw/">
